@@ -1,0 +1,9 @@
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\bin\Debug\01-Bucles.exe.config
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\bin\Debug\01-Bucles.exe
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\bin\Debug\01-Bucles.pdb
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\_01_Bucles.Form1.resources
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\_01_Bucles.Properties.Resources.resources
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\01-Bucles.csproj.GenerateResource.Cache
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\01-Bucles.exe
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\01-Bucles.pdb
+C:\Users\Raul\Desktop\Programas\C#\01-Bucles\01-Bucles\obj\Debug\01-Bucles.csprojResolveAssemblyReference.cache
